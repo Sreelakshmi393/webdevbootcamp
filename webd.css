@@ -1,0 +1,31 @@
+.word{
+     background-image: url(https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg);
+    height: 800px;
+    width: auto;
+}
+
+.key {
+    text-align: center;
+    padding-top: 180px;
+}
+
+.key h1 {
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color: aliceblue;
+    padding-bottom: 20px;
+}
+
+.key button {
+    
+}
+
+.quote h3{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: azure;
+    
+}
+
